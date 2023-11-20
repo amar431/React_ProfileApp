@@ -36,12 +36,12 @@ const PostCard = ({ post }) => {
 
 const ProfileContent = ({ post }) => {
   return (
-    <div className="container mx-auto  bg-gray-100 rounded-lg p-4 shadow-md">
+    <div className="-mt-16 mx-auto  bg-gray-100 rounded-lg p-4 shadow-md">
       {/* Single Line Tab Above */}
       
 
       {/* Posts Section */}
-      <div className="mb-4">
+      <div className="-mt-4">
         <div className="flex items-center justify-start mb-4">
           <FaRegNewspaper className="text-4xl text-gray-800 mr-2" />
           <h2 className="text-2xl font-bold text-gray-800">{post.totalPosts} Posts</h2>
