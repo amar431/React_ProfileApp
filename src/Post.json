@@ -1,0 +1,30 @@
+{
+    "totalPosts": 65,
+    "posts": [
+      {
+        "id": 1,
+        "totalViews": 800,
+        "title": "Exploring the Beauty of Nature",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "totalPostViews": 200,
+        "postedTime": "November 18, 2023"
+      },
+      {
+        "id": 2,
+        "totalViews": 1200,
+        "title": "A Culinary Adventure",
+        "content": "Savoring delicious dishes from around the world. From street food to fine dining, every bite is an experience.",
+        "totalPostViews": 450,
+        "postedTime": "November 20, 2023"
+      },
+      {
+        "id": 3,
+        "totalViews": 1200,
+        "title": "Sunset Serenity",
+        "content": "Watching the sun set over the horizon, casting a warm glow on the world. A moment of tranquility and beauty.",
+        "totalPostViews": 150,
+        "postedTime": "November 22, 2023"
+      }
+    ]
+  }
+  

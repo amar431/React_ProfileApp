@@ -1,0 +1,18 @@
+{
+    "profileImage": "../public/photo.jpg",
+    "backgroundImage": "",
+    "name": "Amarnath Guptha",
+    "username": "@amar_143",
+    "bio": "Web Developer",
+    "location": "Jalandhar, India",
+    "followers": 1000,
+    "following": 500,
+    "links": {
+      "instagram": "https://www.instagram.com/iamar_431/",
+      "github": "https://github.com/johndoe",
+      "twitter": "https://twitter.com/johndoe"
+    },
+    "profileViews": 5000,
+    "totalLikes": 20000
+  }
+  
