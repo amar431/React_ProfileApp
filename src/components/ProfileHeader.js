@@ -12,7 +12,7 @@ const ProfileHeader = ({ data }) => {
     <div>
       {/* Navigation Bar */}
      
-      <div className="bg-gray-950 p-4 flex justify-between items-center text-white">
+      <div className="bg-stone-950  p-4 flex justify-between items-center text-white">
       <div >
             <img
               src={logo}
@@ -34,9 +34,9 @@ const ProfileHeader = ({ data }) => {
         className="bg-cover bg-center h-64 relative sm:h-96"
         style={{ backgroundImage: `url(${backgroundImage})` }}
       >
-        <div className="absolute flex -mb-4 sm:flex-row items-end h-full">
+        <div className="absolute   flex -mb-4 sm:flex-row items-end h-full">
           {/* Background Image Overlay */}
-          <div className=" inset-0 bg-opacity-0 bg-black"></div>
+          <div className=" inset-0 bg-opacity-50 "></div>
 
           {/* Profile Photo */}
           <div className=" sm:ml-8  relative sm:-mb-8  ">

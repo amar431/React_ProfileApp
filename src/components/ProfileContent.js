@@ -41,7 +41,7 @@ const ProfileContent = ({ post }) => {
       
 
       {/* Posts Section */}
-      <div className="-mt-4">
+      <div className="mt-16">
         <div className="flex items-center justify-start mb-4">
           <FaRegNewspaper className="text-4xl text-gray-800 mr-2" />
           <h2 className="text-2xl font-bold text-gray-800">{post.totalPosts} Posts</h2>
