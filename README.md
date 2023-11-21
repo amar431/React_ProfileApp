@@ -1,4 +1,4 @@
-# Deployed Link:- https://react-profile-agtr8m6vc-amar431.vercel.app/
+# Deployed Link:- https://react-profile-app-coral.vercel.app/
 
 # Profile App
 I made this app using react and also made the app successfully using Tailwind Css thanks to tailwind and i have 3 major components as below,
